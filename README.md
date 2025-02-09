@@ -1,2 +1,3 @@
 # demo
-This is my first git Repositiory
+This is my first Git Repositiory
+Author Adarsh Chaklasiya
